@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **llstewart6/llstewart6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hello my name is LaShelle Stewart. I've been doing data analysis since 2011 but had no clue it was career field until recently. One of my good friend's and 
@@ -18,4 +18,4 @@ Tableau and R-Programming. I am looking for a job that I can use my current skil
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
