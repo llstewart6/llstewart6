@@ -10,7 +10,7 @@ prevopis roles has been my affinity and heavy reliance on Excel to create report
 taking my skillset to new levels by learning SQL, Tableau and R-Programming. I am looking for a job that I can use my current skill set while continuosly 
 leanring and improving.
 
--:mortar_board: I just completed the Google Data Analytics Certificate
+- :mortar_board: I just completed the Google Data Analytics Certificate
 - 🔭 I’m currently working on building my data analysis portfolio
 - 🌱 I’m currently learning SQL, Tableau & R Programming
 - 👯 I’m looking to collaborate on a data analytics project and work opportunities.
