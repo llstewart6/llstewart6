@@ -18,5 +18,5 @@ leanring and improving.
 - 💬 Ask me about Anything!
 - 📫 How to reach me: llstewart6@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love fitness, nutrtion and health.
+- ⚡ Fun fact: I love numbers, fitness, nutrtion and health.
 
